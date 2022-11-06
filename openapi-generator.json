@@ -1,0 +1,5 @@
+{
+  "npmName": "mandala-sdk",
+  "supportsES6": true,
+  "withNodeImports":true
+}
